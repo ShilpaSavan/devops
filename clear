@@ -1,0 +1,41 @@
+[33mcommit e5c7ceabd655c7d39a325a4f3a3c308af4411de4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: root <root@ip-172-31-34-225.us-east-2.compute.internal>
+Date:   Sun May 23 04:20:11 2021 +0000
+
+    hide files in this directory
+
+[33mcommit d1c690070f07a6fae37032ecdc2632e5ff1bb07e[m
+Author: root <root@ip-172-31-34-225.us-east-2.compute.internal>
+Date:   Thu May 20 21:49:22 2021 +0000
+
+    deleted a txt file
+
+[33mcommit b34a3c8f9302fdf58305692b3c79aaff8649a791[m
+Author: root <root@ip-172-31-34-225.us-east-2.compute.internal>
+Date:   Thu May 20 21:38:30 2021 +0000
+
+    txt file
+
+[33mcommit 21253199f3876960f843e4ce38edad07a7b15b14[m
+Author: root <root@ip-172-31-34-225.us-east-2.compute.internal>
+Date:   Thu May 20 21:10:31 2021 +0000
+
+    txt file
+
+[33mcommit a75a83615cfa09c00cc393b807e8eac3d9808bda[m
+Author: root <root@ip-172-31-34-225.us-east-2.compute.internal>
+Date:   Thu May 20 21:01:35 2021 +0000
+
+    new modification needs to be add and commited
+
+[33mcommit 9176248a87d714defae7332819129b15e5be43a3[m
+Author: root <root@ip-172-31-34-225.us-east-2.compute.internal>
+Date:   Thu May 20 20:36:34 2021 +0000
+
+    second file
+
+[33mcommit 14c53d206db9f28a1e548e13e9784a1183cba3e2[m
+Author: root <root@ip-172-31-34-225.us-east-2.compute.internal>
+Date:   Thu May 20 17:58:48 2021 +0000
+
+    first commit
